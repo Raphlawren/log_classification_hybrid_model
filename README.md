@@ -1,5 +1,19 @@
-
 # Log Classification With Hybrid Classification Framework
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-2B6CB0?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Text%20Classification-blue?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Groq%20%7C%20Llama%203.3-orange?style=for-the-badge)
+![Regex](https://img.shields.io/badge/Regex-Rule--Based%20Classification-purple?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-green?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+A hybrid NLP log classification system combining rule-based Regex, Sentence Transformer embeddings with Logistic Regression, and LLM fallback classification through Groq/Llama 3.3, deployed as a FastAPI service.
 
 This project implements a hybrid log classification system, combining three complementary approaches to handle varying levels of complexity in log patterns. The classification methods ensure flexibility and effectiveness in processing predictable, complex, and poorly-labeled data patterns.
 
