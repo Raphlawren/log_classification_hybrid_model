@@ -60,6 +60,9 @@ This project implements a hybrid log classification system, combining three comp
    - `http://127.0.0.1:8000/` (Main endpoint)
    - `http://127.0.0.1:8000/docs` (Interactive Swagger documentation)
    - `http://127.0.0.1:8000/redoc` (Alternative API documentation)
+---
+In practice, the the logs are being classified to the class they belong to
+<img width="1838" height="977" alt="4  deployed in postman" src="https://github.com/user-attachments/assets/3ca593ba-30b1-4997-baea-7219f549ae74" />
 
 ---
 
