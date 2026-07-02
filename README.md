@@ -33,7 +33,8 @@ This project implements a hybrid log classification system, combining three comp
    - Used for handling complex patterns when sufficient labeled training data is not available.
    - Provides a fallback or complementary approach to the other methods.
 
-![architecture](resources/arch.png)
+![architecture](<img width="2576" height="1632" alt="Gemini_Generated_Image_jbv13vjbv13vjbv1" src="https://github.com/user-attachments/assets/3629fd90-29bf-474a-ad04-66f4000cac16" />)
+
 
 ---
 
